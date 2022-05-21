@@ -1,0 +1,10 @@
+/home/runner/Practica-INS340/bin/Debug/netcoreapp2.1/FSharp-Nix.deps.json
+/home/runner/Practica-INS340/bin/Debug/netcoreapp2.1/FSharp-Nix.runtimeconfig.json
+/home/runner/Practica-INS340/bin/Debug/netcoreapp2.1/FSharp-Nix.runtimeconfig.dev.json
+/home/runner/Practica-INS340/bin/Debug/netcoreapp2.1/FSharp-Nix.dll
+/home/runner/Practica-INS340/bin/Debug/netcoreapp2.1/FSharp-Nix.pdb
+/home/runner/Practica-INS340/obj/Debug/netcoreapp2.1/FSharp-Nix.fsprojAssemblyReference.cache
+/home/runner/Practica-INS340/obj/Debug/netcoreapp2.1/FSharp-Nix.AssemblyInfoInputs.cache
+/home/runner/Practica-INS340/obj/Debug/netcoreapp2.1/FSharp-Nix.AssemblyInfo.fs
+/home/runner/Practica-INS340/obj/Debug/netcoreapp2.1/FSharp-Nix.dll
+/home/runner/Practica-INS340/obj/Debug/netcoreapp2.1/FSharp-Nix.pdb
